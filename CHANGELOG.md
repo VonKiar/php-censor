@@ -38,6 +38,10 @@ Thanks to [@lugark](https://github.com/lugark).
 [#334](https://github.com/php-censor/php-censor/issues/334). Pull request 
 [#335](https://github.com/php-censor/php-censor/pull/335). Thanks to [@xl32](https://github.com/xl32).
 
+### Removed
+
+- Useless installation and configuration option `php-censor.url`.
+
 ### Changed
 
 - [PhpCsFixer, PhpDocblockChecker] Improved plugins output. Pull request 

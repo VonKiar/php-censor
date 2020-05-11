@@ -50,6 +50,7 @@
         "ext-PDO":       "*",
         "ext-json":      "*",
         "ext-dom":       "*",
+        "ext-xml":       "*",
         "ext-libxml":    "*",
         "ext-SimpleXML": "*",
         "ext-curl":      "*",
